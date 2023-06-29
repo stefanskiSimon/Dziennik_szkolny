@@ -1,0 +1,88 @@
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie.g.cs
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie.baml
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie_k.g.cs
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie_k.baml
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie_s.g.cs
+C:\Users\Uczen\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie_s.baml
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie.g.cs
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie_k.g.cs
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie_s.g.cs
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie.baml
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie_k.baml
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\dodawanie_s.baml
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\w i k a\source\repos\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+E:\7.11 pd\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+E:\7.11 pd\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+E:\7.11 pd\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\dodawanie.g.cs
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\dodawanie_k.g.cs
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\dodawanie_s.g.cs
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\dodawanie.baml
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\dodawanie_k.baml
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\dodawanie_s.baml
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+E:\7.11 pd\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb
+F:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe.config
+F:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.exe
+F:\WpfApp1\WpfApp1\bin\Debug\WpfApp1.pdb
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+F:\WpfApp1\WpfApp1\obj\Debug\dodawanie.g.cs
+F:\WpfApp1\WpfApp1\obj\Debug\dodawanie_k.g.cs
+F:\WpfApp1\WpfApp1\obj\Debug\dodawanie_s.g.cs
+F:\WpfApp1\WpfApp1\obj\Debug\MainWindow.g.cs
+F:\WpfApp1\WpfApp1\obj\Debug\App.g.cs
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+F:\WpfApp1\WpfApp1\obj\Debug\dodawanie.baml
+F:\WpfApp1\WpfApp1\obj\Debug\dodawanie_k.baml
+F:\WpfApp1\WpfApp1\obj\Debug\dodawanie_s.baml
+F:\WpfApp1\WpfApp1\obj\Debug\MainWindow.baml
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.g.resources
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.exe
+F:\WpfApp1\WpfApp1\obj\Debug\WpfApp1.pdb

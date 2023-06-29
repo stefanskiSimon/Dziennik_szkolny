@@ -1,0 +1,48 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Szkoła ZSŁ" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="3*"/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="7*"/>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Menu>
+            <MenuItem Header="Dodaj" Click="MenuItem_Click">
+                <MenuItem Header="Ucznia">
+                    <Button  Content="*klik*" Click="Button_Click"/>
+
+                </MenuItem>
+                <MenuItem Header="Klase">
+                    <Button Content="*klik*" Click="Button_Click_klasa"/>
+
+                </MenuItem>
+                <MenuItem Header="Szkole">
+                    <Button Content="*klik*" Click="Button_Click_szkola"/>
+
+                </MenuItem>
+            </MenuItem>
+        </Menu>
+        <ListBox Grid.Row="1" Grid.Column="0" d:ItemsSource="{d:SampleData ItemCount=5}"  SelectionChanged="ListBox_SelectionChanged" Name="szkoly"/>
+        <ListBox Grid.Row="1" Grid.Column="1" d:ItemsSource="{d:SampleData ItemCount=5}" Name="klasy" SelectionChanged="klasy_SelectionChanged"/>
+        <ListBox Grid.Row="1" Grid.Column="2" Name="uczniowie" SelectionChanged="uczniowie_SelectionChanged">
+
+        </ListBox>
+        <TextBlock  Grid.Row="1" Grid.Column="3" TextWrapping="Wrap" Text="Kliknij aby wybrac szkole"  VerticalAlignment="Center" Name="output"/>
+        <Button Content="Odśwież" HorizontalAlignment="Left" Margin="10" Grid.Row="2" Grid.Column="0" Click="Button_Click_1"/>
+
+
+
+    </Grid>
+</Window>

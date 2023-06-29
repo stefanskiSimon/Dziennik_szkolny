@@ -1,0 +1,20 @@
+﻿<Window x:Class="WpfApp1.Window3"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="Window3" Height="270" Width="302">
+    <Grid Margin="28,0,0,-6" HorizontalAlignment="Left" Width="247">
+        <TextBox HorizontalAlignment="Center" Margin="0,49,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" Name="Id_szkola" TextChanged="Id_szkola_TextChanged"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,75,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" Name="Ilosc_klas" TextChanged="Ilosc_klas_TextChanged"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,101,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" Name="Nazwa" TextChanged="Nazwa_TextChanged"/>
+        <Button Content="Dodaj" HorizontalAlignment="Center" Margin="0,125,0,0" VerticalAlignment="Top" Click="Button_Click"/>
+        <TextBox HorizontalAlignment="Center" Margin="0,150,0,0" TextWrapping="Wrap" Text="TextBox" VerticalAlignment="Top" Width="120" Name="info"/>
+        <Label Content="Id" HorizontalAlignment="Left" Margin="29,45,0,0" VerticalAlignment="Top"/>
+        <Label Content="Ilośc klas" HorizontalAlignment="Left" Margin="21,71,0,0" VerticalAlignment="Top" Height="26" Width="38"/>
+        <Label Content="Nazwa" HorizontalAlignment="Left" Margin="13,97,0,0" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
